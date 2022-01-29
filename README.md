@@ -1,6 +1,6 @@
-# e-commerce-db
-# employee-tracker
-# Employee Database Command Line Application
+# backend-shopping-db
+
+# E-Commerce DB with Express and Sequelize
 
 ![badge](https://img.shields.io/badge/MIT-License-Green)
 
