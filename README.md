@@ -4,7 +4,7 @@
 
 ![badge](https://img.shields.io/badge/MIT-License-Green)
 
-Link to Repo: [GITHUB-REPO]https://github.com/mhowitz/employee-tracker
+Link to Repo: [GITHUB-REPO]https://github.com/mhowitz/backend-shopping-db
 
 Link to Walkthrough Video: [VIDEO]https://youtu.be/DLflfRBWhwg
 
@@ -31,12 +31,12 @@ If the user wishes to look at data in the database, they can use insomnia and ch
 
 Here is a screenshot of what the category data looks like in insomnia:
 
-![screenshot-of-browser]()
+![screenshot-of-browser](images/insomnia.jpg)
 
 
 Here is a screenshot of what the product data looks like in the browser:
 
-![screenshot-of-terminal]()
+![screenshot-of-terminal](images/browser.jpg)
 
 ## License 
 
