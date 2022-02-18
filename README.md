@@ -10,7 +10,7 @@ Link to Walkthrough Video: [VIDEO]https://youtu.be/DLflfRBWhwg
 
 ## Description
 
-This Project was created using Node.js, Sequelize and Express to create a database for an e-commerce website. I uses models for categories, products, and tags to link them together in differnet tables and is deployed to the local server with express.
+This Project was created using Node.js, Sequelize and Express to create a database for an e-commerce website. It uses models for categories, products, and tags to link them together in differnet tables and is deployed to the local server with express.
 
 ## Table of Contents
 
