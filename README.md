@@ -6,7 +6,7 @@
 
 Link to Repo: [GITHUB-REPO]https://github.com/mhowitz/backend-shopping-db
 
-Link to Walkthrough Video: [VIDEO]https://youtu.be/DLflfRBWhwg
+Link to Walkthrough Video: [VIDEO]https://youtu.be/2Jv0fT2KjgM
 
 ## Description
 
